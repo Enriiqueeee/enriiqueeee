@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri833&show_icons=true&count_private=true&hide=prs&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enriiqueeee&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 ## 🏆 GitHub Trophies
