@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Hi, I'm Enrique<br>I'm a passionate Cross-Platform Application Development student. I'm currently learning how to create efficient and attractive solutions that work on multiple operating systems. My goal is to design applications that improve the user experience and are accessible to everyone.<br><br><br>🌱 Learning<br>I'm constantly expanding my knowledge in areas such as:<br>API Integration<br>Responsive Application Development<br><br><br>📫 Connect with me<br>I'm always open to collaborating on interesting projects and learning from others. Do not hesitate to contact me through arenasvinasenrique@gmail.com
+👋 I’m a web and mobile developer, truly passionate about what I do. I’ve completed my degree in Cross-Platform Application Development (DAM), and since then I’ve been focused on building well-structured, functional, and user-friendly applications. I enjoy every part of the process—from design to implementation.
+
+I’m always looking to improve, learn new things, and stay up-to-date with the latest technologies, because this field is constantly evolving. On a personal level, I’m really into sports and video games—two of my biggest passions.
+
+🌱 Currently learning
+I’m continuing to grow in areas like:
+
+    API Integration
+
+    Responsive UI Development
+
+    Clean Architecture for Mobile Apps
+
+📫 Let’s connect
+I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: arenasvinasenrique@gmail.com
 
 
 # 💻 Tech Stack:
