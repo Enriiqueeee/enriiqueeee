@@ -22,9 +22,9 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=enriiqueeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=enriiqueeee&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enriiqueeee&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri833&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri833&layout=compact&langs_count=8&theme=radical)
+![snake gif](https://github.com/Adri833/Adri833/blob/output/snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=enriiqueeee&theme=radical&no-frame=true&no-bg=false&margin-w=4)
