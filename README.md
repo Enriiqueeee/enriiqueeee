@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, soy Enrique<br>Soy un apasionado estudiante de Desarrollo de Aplicaciones Multiplataforma. Actualmente estoy aprendiendo a crear soluciones eficientes y atractivas que funcionen en múltiples sistemas operativos. Mi objetivo es diseñar aplicaciones que mejoren la experiencia del usuario y sean accesibles para todos.<br><br><br>🌱 Aprendiendo<br>Estoy constantemente ampliando mis conocimientos en áreas como:<br>Integración de APIs<br>Desarrollo de aplicaciones responsivas<br><br><br>📫 Conéctate conmigo<br>Siempre estoy abierto a colaborar en proyectos interesantes y aprender de otros. No dudes en contactarme a través de arenasvinasenrique@gmail.com
+👋 Hi, I'm Enrique<br>I'm a passionate Cross-Platform Application Development student. I'm currently learning how to create efficient and attractive solutions that work on multiple operating systems. My goal is to design applications that improve the user experience and are accessible to everyone.<br><br><br>🌱 Learning<br>I'm constantly expanding my knowledge in areas such as:<br>API Integration<br>Responsive Application Development<br><br><br>📫 Connect with me<br>I'm always open to collaborating on interesting projects and learning from others. Do not hesitate to contact me through arenasvinasenrique@gmail.com
 
 
 # 💻 Tech Stack:
