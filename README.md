@@ -16,6 +16,8 @@ I’m continuing to grow in areas like:
 📫 Let’s connect
 I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: arenasvinasenrique@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nrique-arenas-viñas-aa0b74335)
+
 
 # 💻 Tech Stack:
 ### Languages & Frameworks:
@@ -36,7 +38,17 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
+### Cybersecurity Tools:
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23172B4D.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enriiqueeee&show_icons=true&count_private=true&hide=prs&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=enriiqueeee&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enriiqueeee&layout=compact&theme=radical)
+
