@@ -16,7 +16,7 @@ I’m continuing to grow in areas like:
 📫 Let’s connect
 I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: arenasvinasenrique@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nrique-arenas-viñas-aa0b74335)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/enriquearevin)
 
 
 # 💻 Tech Stack:
