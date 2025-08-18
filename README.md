@@ -3,14 +3,15 @@
 
 I’m always looking to improve, learn new things, and stay up-to-date with the latest technologies, because this field is constantly evolving. On a personal level, I’m really into sports and video games—two of my biggest passions.
 
+⚡ Currently, I’m also starting my journey in Cybersecurity. I have a strong motivation and ambition to learn, grow, and eventually dedicate my professional career to this exciting and challenging field. 
+
 🌱 Currently learning
 I’m continuing to grow in areas like:
 
     API Integration
-
     Responsive UI Development
-
     Clean Architecture for Mobile Apps
+    Cybersecurity fundamentals & practices 🔐
 
 📫 Let’s connect
 I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: arenasvinasenrique@gmail.com
@@ -39,4 +40,3 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enriiqueeee&show_icons=true&count_private=true&hide=prs&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=enriiqueeee&icon=0&color=0)](https://visitcount.itsvg.in)
-
