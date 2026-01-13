@@ -14,7 +14,7 @@ I’m continuing to grow in areas like:
     Cybersecurity fundamentals & practices 🔐
 
 📫 Let’s connect
-I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: arenasvinasenrique@gmail.com
+I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: enriquearevin@proton.me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/enriquearevin)
 
