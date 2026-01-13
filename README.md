@@ -28,6 +28,7 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%239400FF.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Tools & Platforms:
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -44,5 +45,4 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%239400FF.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
