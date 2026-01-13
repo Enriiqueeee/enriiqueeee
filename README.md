@@ -44,11 +44,3 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enriiqueeee&show_icons=true&count_private=true&hide=prs&theme=radical)
----
-[![](https://visitcount.itsvg.in/api?id=enriiqueeee&icon=0&color=0)](https://visitcount.itsvg.in)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enriiqueeee&layout=compact&theme=radical)
-
