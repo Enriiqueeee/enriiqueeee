@@ -44,5 +44,5 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Kotlin-%239400FF.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%239400FF.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
