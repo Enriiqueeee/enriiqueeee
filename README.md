@@ -1,20 +1,24 @@
 # 💫 About Me:
-👋 I’m a web and mobile developer, truly passionate about what I do. I’ve completed my degree in Cross-Platform Application Development (DAM), and since then I’ve been focused on building well-structured, functional, and user-friendly applications. I enjoy every part of the process—from design to implementation.
+👋 I’m a Cybersecurity enthusiast specializing in Pentesting and Red Team operations. I completed my degree in Cross-Platform Application Development (DAM) and studied at CETI, building a strong foundation in programming, system architecture, and application logic.
 
-I’m always looking to improve, learn new things, and stay up-to-date with the latest technologies, because this field is constantly evolving. On a personal level, I’m really into sports and video games—two of my biggest passions.
+Although I began my journey in web and mobile development, I am now fully focused on Cybersecurity. My development background allows me to deeply understand how applications and systems are built — and how they can be secured or exploited from an offensive security perspective.
 
-⚡ Currently, I’m also starting my journey in Cybersecurity. I have a strong motivation and ambition to learn, grow, and eventually dedicate my professional career to this exciting and challenging field. 
+I’m passionate about vulnerability research, attack methodologies, and continuous skill improvement. I approach security with a technical mindset, analytical thinking, and constant curiosity.
+
+⚡ My professional objective is to build a career in Cybersecurity, specializing in Web Pentesting, Network Pentesting, and Red Team operations.
 
 🌱 Currently learning
-I’m continuing to grow in areas like:
+I’m continuously improving in areas such as:
 
-    API Integration
-    Responsive UI Development
-    Clean Architecture for Mobile Apps
-    Cybersecurity fundamentals & practices 🔐
-
+    Web Application Pentesting (OWASP Top 10)
+    Network Enumeration & Exploitation
+    Privilege Escalation Techniques
+    Active Directory fundamentals
+    Red Team methodologies
+    Offensive Security practices 🔐
+    
 📫 Let’s connect
-I’m always open to collaborating on interesting projects and learning from others. Feel free to reach out to me at: enriquearevin@proton.me
+I’m open to collaborating on security projects, CTF challenges, labs, and professional opportunities. Feel free to reach out to me at: enriquearevin@proton.me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/enriquearevin)
 
@@ -39,10 +43,14 @@ I’m always open to collaborating on interesting projects and learning from oth
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-### Cybersecurity Tools:
+### Cybersecurity & Offensive Security Tools:
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-%23172B4D.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-%230079C1.svg?&style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%230A0A0A.svg?&style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
-
+![Hydra](https://img.shields.io/badge/Hydra-%23FF0000.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23000000.svg?&style=for-the-badge&logo=gnu&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-%23007ACC.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-%23000000.svg?&style=for-the-badge&logo=python&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-%23CC2927.svg?&style=for-the-badge&logo=mysql&logoColor=white)
